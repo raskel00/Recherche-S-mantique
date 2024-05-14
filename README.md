@@ -1,1 +1,1 @@
-# Recherche-S-mantique
+# Recherche-Sémantique
